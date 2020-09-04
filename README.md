@@ -1,4 +1,4 @@
-#Privacy Policy of Yabi App
+# Privacy Policy of Yabi App
 
 Yabi Technologies operates the https://yabi.app.br/ website, which provides the SERVICE.
 
